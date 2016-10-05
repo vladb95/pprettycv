@@ -27,20 +27,12 @@ var expiriance = [
         projects: [
             {
                 name: 'Bonus',
-                description: `
-                    the system for accounting company's inventory
-                `,
-                contribution: `
-                    developed back-end on asp.net MVC and created UI based on Jquery component - jqGrig
-                `
+                description: 'the system for accounting company\'s inventory',
+                contribution: 'developed back-end on asp.net MVC and created UI based on Jquery component - jqGrig'
             }, {
                 name: 'JudgeOffice',
-                description: `
-                    the system for control documents of Odessa National University
-                `,
-                contribution: `
-                    developed front-end part of project on AngularJs
-                `
+                description: 'the system for control documents of the Odessa National University',
+                contribution: 'developed front-end part of project on AngularJs'
             }
         ]
     }, {
@@ -53,12 +45,8 @@ var expiriance = [
         projects: [
             {
                 name: 'aCrm',
-                description: `
-                    partner program for financial comunity based on teleTrade group; the system is CRM service for teleTrade
-                `,
-                contribution: `
-                    took part as front-end developer; the system was developing on MEAN stack
-                `
+                description: 'partner program for financial comunity based on teleTrade group; the system is CRM service for teleTrade',
+                contribution: 'took part as front-end developer; the system was developing on MEAN stack'
             }
         ]
     }, {
@@ -71,20 +59,12 @@ var expiriance = [
         projects: [
             {
                 name: 'SmCRM',
-                description: `
-                    service for working and keeping on touch with company's clients
-                `,
-                contribution: `
-                    developed project on Django and AngularJS
-                `
+                description: 'service for working and keeping on touch with company\'s clients',
+                contribution: 'developed project on Django and AngularJS'
             }, {
                 name: 'VGRP',
-                description: `
-                    the project for provision of legal services
-                `,
-                contribution: `
-                    developed project on Yii2 and Vue.Js
-                `
+                description: 'the project for provision of legal services',
+                contribution: 'developed project on Yii2 and Vue.Js'
             }
         ]
     }, {
@@ -96,12 +76,8 @@ var expiriance = [
         projects: [
             {
                 name: 'GMS',
-                description: `
-                    reсruting service for sailors and businessmen
-                `,
-                contribution: `
-                    developing project on AngularJS
-                `
+                description: 'reсruting service for sailors and businessmen',
+                contribution: 'developing project on AngularJS'
             }
         ]
     }, {
@@ -113,12 +89,8 @@ var expiriance = [
         projects: [
             {
                 name: 'BudgetKeeper',
-                description: `
-                    the system of budget control
-                `,
-                contribution: `
-                    developing project on Angular2 and Ionic2
-                `
+                description: 'the system for budget control',
+                contribution: 'developing project on Angular2 and Ionic2'
             }
         ]
     },
