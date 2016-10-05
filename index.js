@@ -1,4 +1,5 @@
 /**
+ * CV version 10.16 
  * Personal informaion
  */
 const name     = 'Vlad Balabash';
