@@ -2,15 +2,15 @@
  * CV version 10.16 
  * Personal informaion
  */
-const name     = 'Vlad Balabash';
-var age      = 21,
+const name = 'Vlad Balabash';
+var age = 21,
     position = 'Front-End developer',
     contacts = {
         linkedin: 'http://bit.ly/2d4fssV',
         facebook: 'http://bit.ly/2dLneGd',
-        github:   'https://github.com/vladb95',
-        gmail:    'vladb951@gmail.com',
-        phone:    '+ 38 066 0132 880'
+        github: 'https://github.com/vladb95',
+        gmail: 'vladb951@gmail.com',
+        phone: '+ 38 066 0132 880'
     };
 
 /**
@@ -18,7 +18,7 @@ var age      = 21,
  */
 var expiriance = [
     {
-        companeName: 'CIT',
+        companyName: 'CIT',
         position: 'Full-Stack developer',
         timeInterval: {
             from: '04.12.2013',
@@ -44,7 +44,7 @@ var expiriance = [
             }
         ]
     }, {
-        companeName: 'Sofona',
+        companyName: 'Sofona',
         position: 'Front-End developer',
         timeInterval: {
             from: '01.06.2015',
@@ -62,7 +62,7 @@ var expiriance = [
             }
         ]
     }, {
-        companeName: 'SeoMasters',
+        companyName: 'SeoMasters',
         position: 'Full-Stack developer',
         timeInterval: {
             from: '01.10.2015',
@@ -88,7 +88,7 @@ var expiriance = [
             }
         ]
     }, {
-        companeName: '482.solutions',
+        companyName: '482.solutions',
         position: 'Front-End developer',
         timeInterval: {
             from: '02.05.2016'
@@ -105,7 +105,7 @@ var expiriance = [
             }
         ]
     }, {
-        companeName: 'Personal StartUp',
+        companyName: 'Personal StartUp',
         position: 'Front-End developer',
         timeInterval: {
             from: '07.2016'
@@ -130,17 +130,17 @@ var expiriance = [
  */
 var skills = {
     frontEnd: {
-        languages: [ 'ES2015', 'TypeScript', 'CoffeeScript' ],
-        frameworks: [ 'AngularJS', 'Angular2', 'Vue.Js', 'Ionic', 'Ionic2' ],
-        buildSystems: [ 'Webpack', 'Gulp' ],
-        preAndPostProcessors: [ 'Jade', 'Stylus' ]
+        languages: ['ES2015', 'TypeScript', 'CoffeeScript'],
+        frameworks: ['AngularJS', 'Angular2', 'Vue.Js', 'Ionic', 'Ionic2'],
+        buildSystems: ['Webpack', 'Gulp'],
+        preAndPostProcessors: ['Jade', 'Stylus']
     },
     backEnd: {
-        languages: [ 'PHP', 'Python', 'JS and implementations' ],
-        frameworks: [ 'Express', 'Django', 'Bottle', 'Yii2', 'Phalcon' ]
+        languages: ['PHP', 'Python', 'JS and implementations'],
+        frameworks: ['Express', 'Django', 'Bottle', 'Yii2', 'Phalcon']
     },
     dataBases: {
-        sql: [ 'postgre', 'mysql', 'mssql' ],
-        noSql: [ 'mongodb' ]
+        sql: ['postgre', 'mysql', 'mssql'],
+        noSql: ['mongodb']
     }
 };
